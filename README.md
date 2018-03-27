@@ -1,4 +1,4 @@
-# Firefox-58-multirow-tabs
+# Firefox 58 multirow tabs
 
 ## Summary
 User interface customization for Firefox 58+ in order to display tabs in multiple rows/multiple lines and get rid of the awful lateral scrollbox.
